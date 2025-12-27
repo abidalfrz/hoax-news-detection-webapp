@@ -142,7 +142,7 @@ streamlit run app.py
 Open your web browser and navigate to `http://localhost:8501` to access the Hoax vs Real News Classifier web app.
 
 1. Input a news article in the provided text area.
-2. Click the "Predict" button to see the classification result along with confidence scores and linguistic analysis.
+2. Click the "ANALYZE CONTENT" button to see the classification result along with confidence scores and linguistic analysis.
 
 ---
 
