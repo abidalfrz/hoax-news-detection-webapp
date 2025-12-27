@@ -1,0 +1,4 @@
+viz/
+.vscode/
+checkpoints/
+catboost_info/
