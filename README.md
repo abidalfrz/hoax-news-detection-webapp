@@ -41,16 +41,22 @@ The dataset contains the following features:
 
 ## 🛠️ Tech Stack
 
-- **Python**
-- **Streamlit**
-- **Scikit-learn**
-- **Pandas**
-- **Numpy**
-- **NLTK**
-- **Plotly**
-- **Matplotlib**
-- **Seaborn**
-- **Jupyter Notebook**
+### Frontend:
+
+- **Language:** Python
+- **Framework:** Streamlit
+
+### Data Science & ML:
+
+- **Data Handling:** Pandas
+- **Numerical Computing:** Numpy
+- **Text Processing:** NLTK
+- **Data Visualization:** Plotly, Matplotlib, Seaborn
+- **Machine Learning Algorithms:** scikit-learn, XGBoost, LightGBM, CatBoost
+
+### Experiments:
+
+- **Experimentation:** Jupyter Notebook
 
 ---
 
